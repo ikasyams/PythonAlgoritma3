@@ -7,4 +7,4 @@ while (x < a):
 	looping = angka;
 	print(looping)
 	x += 1;
-	pass
+pass
